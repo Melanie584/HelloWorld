@@ -1,2 +1,1 @@
 print("Hello World!")
-print("Today is a nice day")
