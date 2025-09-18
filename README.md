@@ -12,6 +12,6 @@ Watch a demo on youtube of my software here: [Software Demo Video](https://youtu
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+ List of websites that you will find helpful for this project
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Python 3.13.1 Ref Anual](https://docs.python.org/3/library/index.html)
